@@ -1,3 +1,3 @@
-# can-you-google
+# Can you Google
 
-Can you google? Monitor your proxy status in real time.
+Can you Google? Monitor your proxy status in real time.
