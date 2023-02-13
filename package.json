@@ -1,0 +1,18 @@
+{
+  "name": "can-you-google",
+  "version": "0.1.0",
+  "description": "Can you google? Monitor your proxy status in real time.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "Google",
+    "Proxy Status Monitor"
+  ],
+  "author": "liangpengyv",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^23.0.0"
+  }
+}
